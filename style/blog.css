@@ -1,3 +1,13 @@
 div{
     background-color: blueviolet;
+    color: white;
+    text-align: justify;
+}
+.blog{
+
+    border: 10px solid wheat;
+    margin-bottom: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px blueviolet;
 }
